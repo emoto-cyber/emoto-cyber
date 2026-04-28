@@ -16,14 +16,14 @@ Full-stack web developer specializing in Laravel, UI/UX systems, and scalable we
 
 ## 💼 Featured Projects
 - Techbridge ERP System
+- Healthclassique Website
 - Hospital Management System
 - Hostel Management System
-- Role & Permission System
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emoto-cyber&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=emoto-cyber)
 
 ---
 
