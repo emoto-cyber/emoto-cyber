@@ -2,7 +2,7 @@
 
 # 🚀 Kevin Emoto
 
-### 💻 Full-Stack Developer | Laravel Specialist | UI/UX Builder
+### 💻 Full-Stack Web Developer | Laravel Specialist | UI/UX Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;UI%2FUX+Engineer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
 
@@ -19,8 +19,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate software developer focused on building **efficient backend systems and modern user interfaces**.  
-I specialize in Laravel-based applications, database design, and workflow automation systems.
+I'm a passionate web developer focused on building **efficient backend systems and modern user interfaces**.  
+I specialize in Laravel-based web applications, web design, and workflow automation systems.
 
 I enjoy turning complex problems into simple, usable solutions.
 
@@ -29,24 +29,30 @@ I enjoy turning complex problems into simple, usable solutions.
 ## ⚙️ Tech Stack
 
 ### Backend
+<hr>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
+</hr>
 
 ### Frontend
+<hr>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
+</hr>
 
 ### Tools
+<hr>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
+</hr>
 
 ## 💼 Featured Projects
 
