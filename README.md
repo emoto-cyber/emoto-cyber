@@ -37,7 +37,7 @@ Focused on Laravel ecosystems, workflow automation, and performance-driven desig
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
     </td>
@@ -126,7 +126,7 @@ These projects demonstrate my ability to build scalable, secure, and user-focuse
 
 ## 📫 Connect
 
-- 📧 your-email@example.com  
+- 📧 emotokevin@gmail.com  
 - 💼 linkedin.com/in/your-profile  
 - 🌐 your-portfolio.com  
 
