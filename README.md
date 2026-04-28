@@ -28,41 +28,35 @@ I enjoy turning complex problems into simple, usable solutions.
 
 ## ⚙️ Tech Stack
 
-### Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
+<table>
+  <tr>
+    <!-- Backend -->
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <hr>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+    </td>
 
-### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-</p>
+    <!-- Frontend -->
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
+      <hr>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+    </td>
 
-### Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
-## 💼 Featured Projects
-
-### 🏥 Hospital Management System
-> Laravel-based system for managing patients, doctors & billing  
-✔ Patient management  
-✔ Appointment scheduling  
-✔ Billing system  
-
----
-
-### 🏠 Hostel Management System
-> Room allocation and student tracking system  
-✔ Room management  
-✔ Payments tracking  
-✔ Student records  
+    <!-- Tools -->
+    <td align="center" width="33%">
+      <h3>Tools</h3>
+      <hr>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    </td>
+  </tr>
+</table> 
 
 ---
 
