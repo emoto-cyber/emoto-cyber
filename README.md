@@ -4,19 +4,14 @@
 
 ### 💻 Full-Stack Developer | Laravel Specialist | UI/UX Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;UI%2FUX+Focused+Engineer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
-
----
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;UI%2FUX+Engineer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
-
----
 
 </div>
 
@@ -56,30 +51,26 @@ I enjoy turning complex problems into simple, usable solutions.
 ## 💼 Featured Projects
 
 ### 🏥 Hospital Management System
-A full hospital workflow system built with Laravel.
-- Patient management
-- Doctor scheduling
-- Billing system
+> Laravel-based system for managing patients, doctors & billing  
+✔ Patient management  
+✔ Appointment scheduling  
+✔ Billing system  
 
 ---
 
 ### 🏠 Hostel Management System
-- Room allocation system
-- Student tracking
-- Payments management
+> Room allocation and student tracking system  
+✔ Room management  
+✔ Payments tracking  
+✔ Student records  
 
 ---
 
 ### 🔐 Role & Permission System
-- Built using Spatie Laravel Permissions
-- Secure authentication & authorization
-
----
-
-### 🎓 Student Management App
-- CRUD system for students
-- Simple and efficient UI
-- Academic record tracking
+> Secure access control using Spatie Laravel Permissions  
+✔ Role management  
+✔ Authentication system  
+✔ Admin controls  
 
 ---
 
