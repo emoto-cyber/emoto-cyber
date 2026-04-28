@@ -2,7 +2,7 @@
 
 # 🚀 Kevin Emoto
 
-### 💻 Full-Stack Developer • Laravel Specialist • UI/UX Builder
+### 💻 Full-Stack Web Developer • Laravel Specialist • UI/UX Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;UI%2FUX+Engineer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
 
@@ -31,7 +31,7 @@ Focused on Laravel ecosystems, workflow automation, and performance-driven desig
 <table>
   <tr>
     <td align="center">
-      <strong>Backend</strong><br><br>
+      <strong>My Tech Stack</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
@@ -47,12 +47,19 @@ Focused on Laravel ecosystems, workflow automation, and performance-driven desig
 ---
 
 ## 💼 Featured Work
+##🏢 Techbridge ERP System (Collaboration)
+A business-focused ERP system built with Laravel for managing production and operations.
+✔ Production & business workflow management
+✔ Role-based authentication & authorization
+✔ Admin dashboard & system controls
+✔ Scalable and modular architecture
 
-### 🔐 Role & Permission System
-Secure access control system built with Laravel  
-✔ Role-based authentication  
-✔ Admin control panel  
-✔ Scalable permission logic  
+##🏠 Hostel Management System
+A complete hostel operations system designed for efficiency and control.
+✔ Student & room allocation management
+✔ Role-based access control
+✔ Payment tracking system
+✔ Clean and responsive UI
 
 ---
 
@@ -75,11 +82,11 @@ Secure access control system built with Laravel
 ---
 
 ## 📈 Current Focus
-
-- Laravel architecture & clean code practices  
+- Laravel architecture & clean code practices
+- Advancing in ui/ux exkpirience  
 - KPI & workflow automation systems  
 - Advanced React patterns  
-- Scalable system design  
+- Scalable system designs & workflows  
 
 ---
 
