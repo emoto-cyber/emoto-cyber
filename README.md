@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Emoto 👋
 
-Full-stack developer specializing in Laravel, UI/UX systems, and scalable web applications.
+Full-stack web developer specializing in Laravel, UI/UX systems, and scalable web applications.
 
 ---
 
@@ -10,10 +10,12 @@ Full-stack developer specializing in Laravel, UI/UX systems, and scalable web ap
 - MySQL
 - React / Next.js
 - Tailwind CSS
+- JavaScript
 
 ---
 
 ## 💼 Featured Projects
+- Techbridge ERP System
 - Hospital Management System
 - Hostel Management System
 - Role & Permission System
@@ -26,4 +28,4 @@ Full-stack developer specializing in Laravel, UI/UX systems, and scalable web ap
 ---
 
 ## 📫 Contact
-- Email: your@email.com
+- Email: emotokevin@gmail.com.com
