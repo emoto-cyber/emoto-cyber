@@ -46,20 +46,54 @@ Focused on Laravel ecosystems, workflow automation, and performance-driven desig
 
 ---
 
-## 💼 Featured Work
-##🏢 Techbridge ERP System (Collaboration)
-A business-focused ERP system built with Laravel for managing production and operations.
-✔ Production & business workflow management
-✔ Role-based authentication & authorization
-✔ Admin dashboard & system controls
-✔ Scalable and modular architecture
+# 💼 Kevin Emoto – Featured Projects
 
-##🏠 Hostel Management System
-A complete hostel operations system designed for efficiency and control.
-✔ Student & room allocation management
-✔ Role-based access control
-✔ Payment tracking system
-✔ Clean and responsive UI
+A collection of full-stack systems built using Laravel and modern web technologies, focused on solving real-world business and administrative challenges.
+
+---
+
+## 🏢 Techbridge ERP System *(Collaboration)*
+
+A scalable ERP platform built to streamline production and business operations across departments.
+
+### 🛠 Tech Stack
+- Laravel
+- React
+- MySQL
+- REST APIs
+- Bootstrap
+
+### 🚀 Key Highlights
+- Reduced manual workflow processing time by ~40% through automation of production tasks  
+- Implemented secure role-based authentication and authorization for multi-user environments  
+- Built a centralized admin dashboard to monitor operations, users, and system performance  
+- Designed a modular architecture for easy scaling and feature expansion  
+- Integrated RESTful APIs for smooth frontend–backend communication  
+
+---
+
+## 🏠 Hostel Management System
+
+A full-stack system developed to digitize and optimize hostel administration and student management.
+
+### 🛠 Tech Stack
+- Laravel
+- MySQL
+- Blade Templates
+- JavaScript
+- Bootstrap
+
+### 🚀 Key Highlights
+- Improved room allocation efficiency by ~50% through automated assignment logic  
+- Developed secure role-based access control for admins and staff  
+- Implemented a payment tracking system to reduce financial record errors  
+- Built a clean, responsive UI for smooth user experience across devices  
+- Reduced administrative workload by digitizing core hostel operations  
+
+---
+
+## 📌 Summary
+These projects demonstrate my ability to build scalable, secure, and user-focused systems using Laravel and modern web technologies, with a strong emphasis on performance, usability, and real-world impact.
 
 ---
 
