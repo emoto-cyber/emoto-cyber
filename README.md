@@ -1,8 +1,24 @@
-# Hi there, I'm Kevin Emoto 👋
+<div align="center">
 
-💻 Full-Stack Developer | Laravel Specialist | UI/UX Builder  
-📍 Nairobi, Kenya  
-🚀 Building scalable, clean, and production-ready systems  
+# 🚀 Kevin Emoto
+
+### 💻 Full-Stack Developer | Laravel Specialist | UI/UX Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Laravel+Developer;UI%2FUX+Focused+Engineer;Building+Scalable+Systems;Clean+Code+Enthusiast" />
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+</div>
 
 ---
 
