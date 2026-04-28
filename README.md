@@ -31,7 +31,6 @@ Focused on Laravel ecosystems, workflow automation, and performance-driven desig
 <table>
   <tr>
     <td align="center">
-      <strong>My Tech Stack</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
@@ -46,7 +45,7 @@ Focused on Laravel ecosystems, workflow automation, and performance-driven desig
 
 ---
 
-# 💼 Kevin Emoto – Featured Projects
+# 💼 Featured Projects
 
 A collection of full-stack systems built using Laravel and modern web technologies, focused on solving real-world business and administrative challenges.
 
