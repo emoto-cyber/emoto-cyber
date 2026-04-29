@@ -63,7 +63,7 @@ A scalable ERP platform built to streamline production and business operations a
 - Bootstrap
 
 ### 🚀 Key Highlights
-- Reduced manual workflow processing time by ~40% through automation of production tasks  
+- Reduced manual workflow processing time by ~80% through automation of production tasks  
 - Implemented secure role-based authentication and authorization for multi-user environments  
 - Built a centralized admin dashboard to monitor operations, users, and system performance  
 - Designed a modular architecture for easy scaling and feature expansion  
@@ -116,7 +116,7 @@ These projects demonstrate my ability to build scalable, secure, and user-focuse
 
 ## 📈 Current Focus
 - Laravel architecture & clean code practices
-- Advancing in ui/ux exkpirience  
+- Advancing in ui/ux expirience  
 - KPI & workflow automation systems  
 - Advanced React patterns  
 - Scalable system designs & workflows  
@@ -137,4 +137,4 @@ These projects demonstrate my ability to build scalable, secure, and user-focuse
 
 ---
 
-⭐ *Clean code. Clean UI. Scalable systems.*
+⭐ *Clean code. Clean UI. Scalable Laravel Based systems.*
