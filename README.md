@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Kevin Emoto
+<h1 align="center">👋 <b>Hi, I'm Kevin Emoto</b></h1>
 
 ### 💻 Full-Stack Web Developer • Laravel Specialist • UI/UX Builder
 
