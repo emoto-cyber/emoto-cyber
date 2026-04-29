@@ -95,13 +95,12 @@ A full-stack system developed to digitize and optimize hostel administration and
 These projects demonstrate my ability to build scalable, secure, and user-focused systems using Laravel and modern web technologies, with a strong emphasis on performance, usability, and real-world impact.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emoto-cyber&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emoto-cyber&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoto-cyber&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoto-cyber&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800"/>
 </p>
 
 ---
