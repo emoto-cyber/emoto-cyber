@@ -125,8 +125,8 @@ These projects demonstrate my ability to build scalable, secure, and user-focuse
 ## 📫 Connect
 
 - 📧 emotokevin@gmail.com  
-- 💼 linkedin.com/in/your-profile  
-- 🌐 your-portfolio.com  
+- 💼 https://www.linkedin.com/in/kevin-emoto-0b617519b/  
+- 🌐 https://portfolio-one-omega-dtrxhf03rt.vercel.app/  
 
 ---
 
